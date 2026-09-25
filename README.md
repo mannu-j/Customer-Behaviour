@@ -5,17 +5,17 @@ A small-scale **Customer Behaviour Analysis** project built using **Python and P
 The project explores customer behaviour and purchasing patterns through data analysis and presents the findings using interactive Power BI dashboards.
 
 ## 📊 Dashboard
-
 <img width="1238" height="674" alt="Customer behaviour dashborad" src="https://github.com/user-attachments/assets/68c422f9-0ced-41fb-90fb-7aada0ebc1dc" />
 
 ### Customer Behaviour Overview
-![Customer Behaviour Overview](screenshots/customer-behaviour-overview.png)
+<img width="1238" height="674" alt="Customer behaviour dashborad" src="https://github.com/user-attachments/assets/68c422f9-0ced-41fb-90fb-7aada0ebc1dc" />
 
 ### Customer Demographics
-![Customer Behaviour Overview](screenshots/customer-behaviour-overview.png)
+<img width="1238" height="674" alt="Customer behaviour dashborad ss" src="https://github.com/user-attachments/assets/fb344253-c426-4fb0-a4fc-52fc1f898f08" />
 
 ### Purchase Analysis
-![Customer Behaviour Overview](screenshots/customer-behaviour-overview.png)
+<img width="1238" height="674" alt="Customer behaviour dashborad ss" src="https://github.com/user-attachments/assets/7886197d-057a-429e-acf5-14a47e9ec838" />
+
 
 ## 📁 Project Structure
 
